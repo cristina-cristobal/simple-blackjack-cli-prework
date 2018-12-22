@@ -50,7 +50,7 @@ def runner
   welcome
   initial_round
   prompt_user
-  hit? 
+  hit?
     if input == "s"
       prompt_user
   end
